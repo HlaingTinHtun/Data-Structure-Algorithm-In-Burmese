@@ -2,7 +2,7 @@
 
 Queue ကတော့ stack နဲ့ဆင်တယ်။ stack နဲ့မတူတာကကျ stack က one ended ကိုပဲ data အသွင်းအထုတ်ရတယ်။ queue ကကျတော့ တစ်ဖက်ကဝင် တစ်ဖက်ကထွက်ပုံစံမျိုး။ insert လုပ်ဖို့အတွက်ကို enqueue လို့ခေါ်ပြီးတော့ remove လုပ်ဖို့ကိုကျ dequeue လို့ခေါ်တယ်။ stack တုန်းက LIFO (last in first out) structure အတိုင်း ဆိုပေမဲ့ queue မှာတော့ FIFO(first in first out) ပဲ၊ အရင်ဝင်လာတဲ့ process က အရင်ပြန်ထွက်တယ်၊ နောက်မှဝင်လာတဲ့ ကောင်က နောက်မှ ထွက်ရမယ်။ real world example အနေနဲ့ ပြောရရင် starbucks မှာ ကော်ဖီ မှာဖို့တန်းစီ ပြီး စောင့်နေတဲ့ လူတွေမျိုး၊ အရင်ရောက်တဲ့ လူက အရင်မှာတယ်။ ပြီးရင် ထွက်သွားတယ်။
 
-ဒီ article မဖတ်ခင် stack algorithm ရဲ့ article ကိုအရင်ဖတ်ဖို့ recommend လုပ်ချင်ပါတယ်။ အောက်က link မှာသွားဖတ်လို့ရပါတယ်။
+ဒီ article မဖတ်ခင် stack algorithm ရဲ့ article ကိုအရင်ဖတ်ဖို့ recommend လုပ်ချင်ပါတယ်။
 
 Stack လိုပဲ queue ကို array တွေ linked lists တွေသုံးပြီးတော့ ဆောက်လို့ရတယ်။ queue process မှာ queue ဆောက်တာတို့  stack မှာလိုပဲ ထိပ်ဆုံး element ကို access လုပ်ဖို့ဆို peek ဆိုတာကိုသုံးတာတို့၊ queue က ပြည့် နေပြီးလား empty ဖြစ်နေလားစတာတွေကို စစ်တဲ့ function တွေလဲရှိတယ်။ အဓိက အသုံးများတာကတော့ အပေါ်မှာပြောထားတဲ့ function နှစ်ခုဖြစ်တဲ့ enqueue နဲ့ dequeue ပဲ။ queue အတန်းကြီးတစ်ခုရှိတယ်ဆိုပါစို့၊ ညာဘက်(အနောက်ဘက်) ကို queue ထည့်ဖို့ (enqueue) လုပ်ဖို့သုံးတယ်၊ queue ရဲ့ ဘယ်ဘက်(အရှေ့ဘက်)ကို queue remove လုပ်ဖို့သုံးတယ်၊ attach လုပ်ထားတဲ့ပုံနဲ့ တွဲကြည့်လိုက်ရင်တော့ ပိုမြင်သွားပါလိမ့်မယ်။
 
