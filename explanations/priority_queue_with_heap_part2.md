@@ -2,7 +2,7 @@
 
 ဒီ part 2 article ကို မဖတ်ခင် part 1 ကို အရင်ဖတ်ထားမှ အဆင်ပြေပါလိမ့်မယ်။ အောက်က link မှာသွားဖတ်လို့ရပါတယ်။
 
-https://www.facebook.com/permalink.php?story_fbid=857170487972330&id=100010381592688
+http://tny.sh/wwrbDJ7
 
 Part 1 မှာရေးခဲ့တဲ့ မူလ remove algorithm က key တစ်ခုရှာပြီဆို tree တစ်ခုလုံးပတ်ရှာနေတဲ့အတွက် efficiency မကောင်းဘူးလို့ဆိုရမယ်။ အဲ့အတွက်ကြောင့် hash table ကို သုံးပြီး lookup table ပုံစံမျိုးတစ်ခုဖန်တီးမယ်။ အရှေ့ article မှာတုန်း က heap data represent လုပ်ခဲ့တုန်းက ပြောခဲ့သလိုပဲ element node value တွေကို array index (position value) တွေနဲ့ တွဲပြီးဆွဲထုတ်ပြခဲ့သေးတယ်။ အဲ့လိုပုံစံမျိုးပါပဲ။
 
