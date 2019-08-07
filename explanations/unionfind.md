@@ -39,3 +39,5 @@ function union(x,y)
     return success
   else
     set x as y’s parent
+
+photos credit to Udemy
