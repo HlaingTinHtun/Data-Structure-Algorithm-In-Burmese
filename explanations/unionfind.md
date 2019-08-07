@@ -1,12 +1,12 @@
 ## Union Find Algorithm
 
-Union Find ကိုု ရွင္းရွင္းလင္းလင္း ဖြင့္ဆိုုရမယ္ဆိုုရင္ တစ္ကြဲတစ္ျပားစီရွိေနတ့ဲ object တစ္ခုုျခင္းဆီ ဒါမွမဟုုတ္ object အစုုလိုုက္ကိုု find လုုပ္ျပီးေတာ့ တစ္စုုတစ္စည္းတည္း ျဖစ္ေအာင္ ေပါင္းလိုုက္တာကိုု union process လိုု႔ ေျပာလိုု႔ရပါတယ္။ Union Find ကေတာ့ အမ်ားျကီးေျပာစရာမရွိပါဘူး၊ သူ႔မွာ အဓိက သံုုးတ့ဲ function ႏွစ္မ်ိဳးရွိတယ္၊ သိထားတ့ဲ အတိုုင္း find & union ပါပဲ။
+Union Find ကို ရှင်းရှင်းလင်းလင်း ဖွင့်ဆိုရမယ်ဆိုရင် တစ်ကွဲတစ်ပြားစီရှိနေတဲ့ object တစ်ခုခြင်းဆီ ဒါမှမဟုတ် object အစုလိုက်ကို find လုပ်ပြီးတော့ တစ်စုတစ်စည်းတည်း ဖြစ်အောင် ပေါင်းလိုက်တာကို union process လို့ ပြောလို့ရပါတယ်။ Union Find ကတော့ အများကြီးပြောစရာမရှိပါဘူး၊ သူ့မှာ အဓိက သုံးတဲ့ function နှစ်မျိုးရှိတယ်၊ သိထားတဲ့ အတိုင်း find & union ပါပဲ။
 
 ### Find
-ပံုုမွန္ဆိုု object အစုုလိုုက္ဆိုုလိုု႔ရွိရင္ parent node တစ္ခုုရွိတယ္။ object ကတစ္ခုုတည္း ဆိုုလိုု႔ရွိရင္လည္း သူ႔ကိုုယ္တိုုင္ကိုုပဲ parent node အျဖစ္ သတ္မွတ္ထားတယ္။ Find က ဘာလုုပ္မလဲဆိုုေတာ့ object အခ်င္းခ်င္း မေပါင္းခင္(merge) မွာ သူတိုု႔ရဲ႕ parent node ကိုု လိုုက္ရွာတယ္။ Union လုုပ္မွာက parent node ကိုု အေျခခံျပီးလုုပ္မွာျဖစ္တ့ဲအတြက္ေျကာင့္ပါ။
+ပုံမှန်ဆို object အစုလိုက်ဆိုလို့ရှိရင် parent node တစ်ခုရှိတယ်။ object ကတစ်ခုတည်း ဆိုလို့ရှိရင်လည်း သူ့ကိုယ်တိုင်ကိုပဲ parent node အဖြစ် သတ်မှတ်ထားတယ်။ Find က ဘာလုပ်မလဲဆိုတော့ object အချင်းချင်း မပေါင်းခင်(merge) မှာ သူတို့ရဲ့ parent node ကို လိုက်ရှာတယ်။ Union လုပ်မှာက parent node ကို အခြေခံပြီးလုပ်မှာဖြစ်တဲ့အတွက်ကြောင့်ပါ။
 
 ### Union
-Find လုုပ္ျပီး parent node ကိုု ရျပီဆိုုတာနဲ႔ Union လုုပ္ပါတယ္။ parent node ႏွစ္ခုုမွာပါတ့ဲ objects ေတြအားလံုုးကိုုတစ္ခုုတည္း အျဖစ္ေပါင္းလိုုက္ျပီး parent node ကိုုလဲ တစ္ခုုတည္း အျဖစ္သတ္မွတ္လိုုက္ပါတယ္။ ႏွစ္ခုုထဲက ဘယ္တစ္ခုုကိုုျဖစ္ျဖစ္သတ္မွတ္လိုု႔ရပါတယ္။ objects ပိုုမ်ားမ်ားရွိတ့ဲ parent node ကိုုယူလိုုက္တာကေတာ့ ပိုုေကာင္းပါတယ္။
+Find လုပ်ပြီး parent node ကို ရပြီဆိုတာနဲ့ Union လုပ်ပါတယ်။ parent node နှစ်ခုမှာပါတဲ့ objects တွေအားလုံးကိုတစ်ခုတည်း အဖြစ်ပေါင်းလိုက်ပြီး parent node ကိုလဲ တစ်ခုတည်း အဖြစ်သတ်မှတ်လိုက်ပါတယ်။ နှစ်ခုထဲက ဘယ်တစ်ခုကိုဖြစ်ဖြစ်သတ်မှတ်လို့ရပါတယ်။ objects ပိုများများရှိတဲ့ parent node ကိုယူလိုက်တာကတော့ ပိုကောင်းပါတယ်။
 
 ### Union Find With Magnet Examples
 ![Images of unionfind](https://raw.githubusercontent.com/HlaingTinHtun/Data-Structure-Algorithm-In-Burmese-Explanations/master/medias/union%20find/union%20find%20with%20magnet%20example%201.png)
@@ -15,16 +15,16 @@ Find လုုပ္ျပီး parent node ကိုု ရျပီဆို�
 
 ![Images of unionfind](https://raw.githubusercontent.com/HlaingTinHtun/Data-Structure-Algorithm-In-Burmese-Explanations/master/medias/union%20find/union%20find%20with%20magnet%20example%203.png)
 
-ဒါေပမ့ဲ တုုိင္ပတ္တာ တစ္ခုုေတာ့ ရွိတယ္။ အခုု လက္ရွိလုုပ္ေနတ့ဲ operation က efficient မျဖစ္ဘူး။ ဘာလိုု႔လဲဆိုုေတာ့ က်ေနာ္တိုု႔ object ႏွစ္ခုုေပါင္းျပီဆိုုပါစိုု႔ A နဲ႔ B ေပါင္းတယ္။ A က parent node ျဖစ္သြားတယ္။(A<-B) ေပါ့။ ေနာက္ထပ္ C ဆိုုတ့ဲ object တစ္ခုု ထပ္ေပါင္းမယ္။ ဒီလိုုျဖစ္သြားမယ္ (A<-B<-C)၊ ဆိုုေတာ့ က်ေနာ္တိုု႔ C object နဲ႔ ေနာက္ထပ္ object ေတြ union လုုပ္တ့ဲအခါ C ရဲ႕ parent node ကိုုရွာတ့ဲ အခါ C ကေနမွတစ္ဆင့္ A အထိသြားရွာရပါတယ္။ ဒါက သံုုးခုုပဲ ရွိေသးလိုု႔ပါ၊ တစ္ကယ္ဆိုု အမ်ားျကီး ရွိေနတ့ဲ အခ်ိန္ဆိုု တစ္ခါတစ္ခါ union လုုပ္ေတာ့ မယ္ဆိုု parent node ကိုု တစ္ဆင့္ျခင္းဆီ သြားရမယ္ဆိုုရင္ေတာ့ သိပ္မဟုုတ္ေတာ့ပါဘူး။ ဒီလိုုျဖစ္လာတ့ဲအတြက္ path compression ဆိုုတ့ဲ အရာကိုု apply လုုပ္ထားပါတယ္။
+ဒါပေမဲ့ တိုင်ပတ်တာ တစ်ခုတော့ ရှိတယ်။ အခု လက်ရှိလုပ်နေတဲ့ operation က efficient မဖြစ်ဘူး။ ဘာလို့လဲဆိုတော့ ကျနော်တို့ object နှစ်ခုပေါင်းပြီဆိုပါစို့ A နဲ့ B ပေါင်းတယ်။ A က parent node ဖြစ်သွားတယ်။(A<-B) ပေါ့။ နောက်ထပ် C ဆိုတဲ့ object တစ်ခု ထပ်ပေါင်းမယ်။ ဒီလိုဖြစ်သွားမယ် (A<-B<-C)၊ ဆိုတော့ ကျနော်တို့ C object နဲ့ နောက်ထပ် object တွေ union လုပ်တဲ့အခါ C ရဲ့ parent node ကိုရှာတဲ့ အခါ C ကနေမှတစ်ဆင့် A အထိသွားရှာရပါတယ်။ ဒါက သုံးခုပဲ ရှိသေးလို့ပါ၊ တစ်ကယ်ဆို အများကြီး ရှိနေတဲ့ အချိန်ဆို တစ်ခါတစ်ခါ union လုပ်တော့ မယ်ဆို parent node ကို တစ်ဆင့်ခြင်းဆီ သွားရမယ်ဆိုရင်တော့ သိပ်မဟုတ်တော့ပါဘူး။ ဒီလိုဖြစ်လာတဲ့အတွက် path compression ဆိုတဲ့ အရာကို apply လုပ်ထားပါတယ်။
 
-Path compression ဆိုုတာက ေတာ့ သူ႔နာမည္အတိုုင္းပဲ သြားရမယ့္ path ကိုုခ်ဳံ႕ လိုုက္မွာ။ ဆိုုလိုုခ်င္တာက က်ေနာ္တိုု႔အရင္ priority queue article ေရးတုုန္းက lookup table နဲ႔ node value & position value တြဲျပီးေတာ့ သိမ္းထားသလိုုပဲ ၊ ဒီမွာလဲ follower node ကိုု join မလုုပ္ေတာ့ဘဲ parent node ကိုု တိုုက္ရုုိက္သြား Join လုုိက္တယ္။ ဆိုုလိုုခ်င္တာက ဒီလိုု (A<-B<-C) join မယ့္အစား (A<-B),(A<-C) ဆိုုျပီး parent node ကိုုပဲတိုုက္ရုုိက္ join လိုုက္မယ္။ အ့ဲဒါဆိုုရင္ parent node ရွာရေတာ့မယ့္အခ်ိန္မွာ တစ္ဆင့္ခ်င္းစီ လိုုက္ရွာေနစရာမလိုုေတာ့ ဘဲ parent node ကိုု အလြယ္တကူေတြ႔ျပီး Union လုုပ္ႏိုုင္မွာပါ။
+Path compression ဆိုတာက တော့ သူ့နာမည်အတိုင်းပဲ သွားရမယ့် path ကိုချုံ့ လိုက်မှာ။ ဆိုလိုချင်တာက ကျနော်တို့အရင် priority queue article ရေးတုန်းက lookup table နဲ့ node value & position value တွဲပြီးတော့ သိမ်းထားသလိုပဲ ၊ ဒီမှာလဲ follower node ကို join မလုပ်တော့ဘဲ parent node ကို တိုက်ရိုက်သွား Join လိုက်တယ်။ ဆိုလိုချင်တာက ဒီလို (A<-B<-C) join မယ့်အစား (A<-B),(A<-C) ဆိုပြီး parent node ကိုပဲတိုက်ရိုက် join လိုက်မယ်။ အဲ့ဒါဆိုရင် parent node ရှာရတော့မယ့်အချိန်မှာ တစ်ဆင့်ချင်းစီ လိုက်ရှာနေစရာမလိုတော့ ဘဲ parent node ကို အလွယ်တကူတွေ့ပြီး Union လုပ်နိုင်မှာပါ။
 
 ### Union Find With Path Compression
 ![Images of unionfind](https://raw.githubusercontent.com/HlaingTinHtun/Data-Structure-Algorithm-In-Burmese-Explanations/master/medias/union%20find/union%20find%20with%20path%20compression.png)
 
-ဘယ္ေနရာေတြမွာ apply လုုပ္လိုု႔ရလဲဆိုုရင္ connectivity ေတြကိုု unionized လုုပ္ထားတ့ဲ architecture ေတြ algorithm ေတြမွာ သံုုးလိုု႔ရပါတယ္။ ဥပမာ Kurskal algorithm ဆိုု node တစ္ခုုခ်င္းဆီကိုု ascending structure နဲ႔ union လိုုက္လုုပ္ျပီး minimum path ကိုုရွာတယ္။ တစ္ျခား Network connectivity infra ေတြမွာလည္း Union Find ကိုုသံုုးတာေတြရွိပါတယ္။
+ဘယ်နေရာတွေမှာ apply လုပ်လို့ရလဲဆိုရင် connectivity တွေကို unionized လုပ်ထားတဲ့ architecture တွေ algorithm တွေမှာ သုံးလို့ရပါတယ်။ ဥပမာ Kurskal algorithm ဆို node တစ်ခုချင်းဆီကို ascending structure နဲ့ union လိုက်လုပ်ပြီး minimum path ကိုရှာတယ်။ တစ်ခြား Network connectivity infra တွေမှာလည်း Union Find ကိုသုံးတာတွေရှိပါတယ်။
 
-က်ေနာ္ pseudo code နဲ႔ algorithm sample ေလးပါထည့္ေပးလိုုက္ပါတယ္။
+ကျနော် pseudo code နဲ့ algorithm sample လေးပါထည့်ပေးလိုက်ပါတယ်။
 
 function find( x )
   if(x != x.parent)
