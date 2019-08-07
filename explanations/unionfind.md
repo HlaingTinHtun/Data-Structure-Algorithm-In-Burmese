@@ -26,18 +26,21 @@ Path compression ဆိုတာက တော့ သူ့နာမည်အတ�
 
 ကျနော် pseudo code နဲ့ algorithm sample လေးပါထည့်ပေးလိုက်ပါတယ်။
 
+```
 function find( x )
   if(x != x.parent)
     x.parent = find(x.parent)
     return x.parent
   else
     return x
+```
 
+```
 function union(x,y)
   x = find( x ), y = find( y ) //find the root of each element
   if ( x is equal to y )
     return success
   else
     set x as y’s parent
-
+```
 photos credit to Udemy
