@@ -97,5 +97,4 @@ function Largest(Node root)
     return root
   return Largest(root.right)
 ```
-ပုံတွေမှာလည်း label တွေတွဲပေးထားပါတယ်၊ ပုံတွေနဲ့ တွဲကြည့်ရင်တော့ ပိုပြီးတော့ နားလည်မှာပါ။
-ပုံနဲ့စာနဲ့ တစ်ဆင့်ချင်းတွဲကြည့်ချင်ရင်တော့ အပေါ်မှာရေးထားတဲ့ mark down link မှာဖတ်ရှုနိုင်ပါတယ်။
+photos credit to udemy
