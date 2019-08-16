@@ -1,4 +1,4 @@
-Binary tree’s operation
+## Binary tree’s operation
 
 ဟိုတစ်နေ့ကတော့ binary tree အကြောင်းကို ပြောပြပေးပြီးသွားပြီဆိုတော့ အခု binary tree ရဲ့ operation တွေအကြောင်းကို ပြောပြပေးသွားပါမယ်။ operation တွေကတော့ insert , search , remove ဆိုပြီးတော့ ရှိမယ်၊ တစ်ခုခြင်းဆီ ဘယ်လို အလုပ်လုပ်လဲဆိုတာနဲ့အတူ algorithm အတွက် pseudo sample တွေပါ ရေးပေးသွားပါမယ်။
 
@@ -25,7 +25,7 @@ Node တစ်ခုကို search တော့မယ်ဆိုရင် tre
 ![Image of binarytree](https://raw.githubusercontent.com/HlaingTinHtun/Data-Structure-Algorithm-In-Burmese/master/assets/binary%20tree/binarytree%20search.png)
 
 ```
-Search(root, node)
+function search(root, node)
  if (root == null) //failed search
    return null;
  if (node == root.node) //found
