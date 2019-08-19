@@ -1,0 +1,36 @@
+## Binary Tree’s traversal
+
+Binary tree မွာ traversal လုုပ္တယ္ဆိုုတာ tree ထဲမွာရွိတ့ဲ node ေတြကိုု visit လုုပ္တာကိုုဆိုုလိုုတာပါ။ tree ထဲမွာရွိတ့ဲ level 2 က value 7 ရွိတ့ဲ node ကိုုလွမ္းေထာက္ပါဆိုု ဒီတိုုင္း plain ျကီး သြားေထာက္လိုု႔မရပါဘူး။ level 0 ျဖစ္တ့ဲ root node ကေနစျပီးေတာ့ တစ္ဆင့္ျခင္းဆီ အ့ဲဒီ node ကိုုေရာက္ဖိုု႔အထိ visit လုုပ္ရပါတယ္။ အ့ဲလိုု visit လုုပ္တာကိုု traversal လုုပ္တယ္လိုု႔ေခၚပါတယ္။
+
+Traversal လုုပ္တ့ဲ ေနရာမွာ
+-	In-order Traversal
+-	Pre-order Traversal
+-	Post-order Traversal
+-	Level order Traversal
+ဆိုုျပီးေတာ့ ရွိပါတယ္။
+
+### In-order Traversal
+
+Inorder ကေတာ့ ascending order နဲ႔သြားတယ္၊ ဘာလိုု႔လဲဆိုုေတာ့ သူ traversal လုုပ္တာက left sub tree အရင္လုုပ္တယ္၊ ျပီးေတာ့ မွ root ျပီးေတာ့မွ right sub tree ကိုုလုုပ္သြားတယ္။ ဆိုုေတာ့ left to right သြားတ့ဲ အတြက္ေျကာင့္ value ေတြကလည္း အစဥ္သင့္ ascending order နဲ႔ sort ျပီးသားျဖစ္သြားပါတယ္။
+
+![Image of binarytree](https://raw.githubusercontent.com/HlaingTinHtun/Data-Structure-Algorithm-In-Burmese/master/assets/binary%20tree/binarytree%20inorder%20traversal.png)
+
+### Pre-order Traversal
+
+Preorder မွာေတာ့ root ကိုုအရင္ဆံုုး visit လုုပ္တယ္၊ ျပီးေတာ့မွ left sub tree ကိုု visit လုုပ္ျပီး ေနာက္ဆံုုးမွာမွ right sub tree ကိုု visit လုုပ္တယ္။ root->left sub tree->right sub tree
+
+![Image of binarytree](https://raw.githubusercontent.com/HlaingTinHtun/Data-Structure-Algorithm-In-Burmese/master/assets/binary%20tree/binarytree%20preorder%20traversal.png)
+
+### Post-order Traversal
+
+Postorder မွာေတာ့ root ကိုုေနာက္ဆံုုးမွ visit လုုပ္တယ္။ left sub tree ကိုု အရင္ visit လုုပ္တယ္၊ ျပီးေတာ့ right sub tree ၊ ေနာက္ဆံုုးမွ root ဆီ visit လုုပ္ပါတယ္။ left sub tree->right sub tree->root
+
+![Image of binarytree](https://raw.githubusercontent.com/HlaingTinHtun/Data-Structure-Algorithm-In-Burmese/master/assets/binary%20tree/binarytree%20postorder%20traversal.png)
+
+### Level Order Traversal
+
+Level order ကေတာ့ tree ရဲ႕ level နဲ႔ အလိုုက္ visit လုုပ္ျပီး print လုုပ္ပါတယ္။ သူအလုုပ္လုုပ္က အေပၚကေကာင္ေတြေလာက္မရိုုးရွင္းဘူး၊ queue algorithm ကိုုအသံုုးျပဳျပီးေတာ့ အလုုပ္လုုပ္ပါတယ္။ ဘယ္လိုုအလုုပ္လုုပ္လဲဆိုုေတာ့ root node ကေန စျပီး အလုုပ္လုုပ္မယ္ဆိုုရင္ root node ကိုု အရင္ queue ထဲမွာထည့္ထားတယ္၊ အ့ဲ node ကိုု queue ထဲက ထုုတ္ျပီး print လုုိက္ျပီဆိုုတာနဲ႔ အ့ဲ node ရဲ႕ left and right child node ေတြကိုု queue ထဲမွာထည့္ပါတယ္။ အ့ဲလိုုနည္း နဲ႔ပဲ iterate လုုပ္သြားျပီးေတာ့ level အလိုုက္ node ေတြကိုု ရရွိလာပါတယ္။
+
+![Image of binarytree](https://raw.githubusercontent.com/HlaingTinHtun/Data-Structure-Algorithm-In-Burmese/master/assets/binary%20tree/binarytree%20levelorder%20traversal.png)
+
+photos credit to tutorialpoint
