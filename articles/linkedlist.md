@@ -15,10 +15,10 @@ Doubly linked list ကတော့ node တွေအကုန်လုံးက�
 Circular linked list က သူ့ နာမည်အတိုင်းပဲ circular ပြန်လုပ်ပြီး link တယ်၊ singly linked list မှာဆို tail ကနေ head ဆီကို လှမ်းပြီး link လုပ်ထားတယ်။ doubly linked မှာက ကျ tail ကနေ head ကိုလည်း link တယ်၊ doubly ရဲ့ ထုံးစံအတိုင်း head ကနေလည်း tail ကို ပြန်ပြီး link လုပ်တယ်။
 
 Singly Linked List
-![Images of linked list](https://raw.githubusercontent.com/HlaingTinHtun/Data-Structure-Algorithm-In-Burmese-Explanations/master/medias/linked%20lists/singly%20linked%20list.png)
+![Images of linked list](https://raw.githubusercontent.com/HlaingTinHtun/Data-Structure-Algorithm-In-Burmese/master/assets/linked%20lists/singly%20linked%20list.png)
 
 Doubly Linked List
-![Images of linked list](https://raw.githubusercontent.com/HlaingTinHtun/Data-Structure-Algorithm-In-Burmese-Explanations/master/medias/linked%20lists/doubly%20linked%20list.png)
+![Images of linked list](https://raw.githubusercontent.com/HlaingTinHtun/Data-Structure-Algorithm-In-Burmese/master/assets/linked%20lists/doubly%20linked%20list.png)
 
 
 Operation လုပ်ပုံလုပ်နည်း ကလည်း နည်းနည်းဆီကွာတယ်။ insert လုပ်တဲ့ပုံကို အရင်ပြောကြည့်ရမယ်ဆိုရင်
@@ -28,20 +28,20 @@ Singly linked list မှာ 3rd node မှာ node အသစ်တစ်ခု
 Doubly linked list မှာလည်း insert operation မှာ singly နဲ့အတူတူပဲ ကွာသွားတာ က singly က link ချိတ်တဲ့ နေရာမှာ forward link ပဲချိတ်ရပေမဲ့ doubly မှာ previous ရော forward အတွက်ပါချိတ်ပေးရတယ်။
 
 Singly Linked List Inserting Operation
-![Images of linked list](https://raw.githubusercontent.com/HlaingTinHtun/Data-Structure-Algorithm-In-Burmese-Explanations/master/medias/linked%20lists/singly%20linked%20list%20inserting%20operation.png)
+![Images of linked list](https://raw.githubusercontent.com/HlaingTinHtun/Data-Structure-Algorithm-In-Burmese/master/assets/linked%20lists/singly%20linked%20list%20inserting%20operation.png)
 
 Doubly Linked List Inserting Operation
-![Images of linked list](https://raw.githubusercontent.com/HlaingTinHtun/Data-Structure-Algorithm-In-Burmese-Explanations/master/medias/linked%20lists/doubly%20linked%20list%20inserting%20operation.png)
+![Images of linked list](https://raw.githubusercontent.com/HlaingTinHtun/Data-Structure-Algorithm-In-Burmese/master/assets/linked%20lists/doubly%20linked%20list%20inserting%20operation.png)
 
 Remove operation မှာတော့ ပိုပြီးကွာတယ်။ singly မှာ remove operation လုပ်တော့မယ်ဆို traverser နှစ်ခုနဲ့သွားရတယ်။ trav1 & trav2 ပေါ့၊ remove လုပ်ရမယ့် node ကို trav2 ကတွေ့သွားပြီးဆို တွေ့သွားတဲ့ node ကို memory ထဲမှာ temporary allocate လုပ်လိုက်တယ်။ allowcate လုပ်ပြီးတာနဲ့ trav2 က နောက် node တစ်ခုကို ထပ်သွားတယ်၊ ပြီးတော့မှ temp allocate ထားတယ့် node ကို ဖြတ်ချပြီး deallocate ပြန်လုပ်လိုက်တယ်။ trav1 & 2 ကို လည်း linked ပြန်လုပ်လိုက်တယ်။
 
 Doubly မှာတော့ traverser နှစ်ခုမလိုဘူး။ တစ်ခုနဲ့ ဆိုရတယ်။ ဘာလို့လဲဆိုတော့ သူ့မှာက previous ရော forward ရောချိတ်လို့ရတယ်။ singly မှာက မရှိတဲ့အတွက် reference key လိုလို့ traverser နှစ်ခုနဲ့ သွားရတာ။ ဖြတ်ရမယ့် node ရောက်ပြီဆို သူ့ရဲ့ ရှေ့ node နဲ့ နောက် node ကို forward & backward link ချိတ်ပေးပြီး ဖြတ်လိုက်တယ်။
 
 Singly Linked List Removing Operation
-![Images of linked list](https://raw.githubusercontent.com/HlaingTinHtun/Data-Structure-Algorithm-In-Burmese-Explanations/master/medias/linked%20lists/singly%20linked%20removing%20operation.png)
+![Images of linked list](https://raw.githubusercontent.com/HlaingTinHtun/Data-Structure-Algorithm-In-Burmese/master/assets/linked%20lists/singly%20linked%20removing%20operation.png)
 
 Doubly Linked List Removing Operation
-![Images of linked list](https://raw.githubusercontent.com/HlaingTinHtun/Data-Structure-Algorithm-In-Burmese-Explanations/master/medias/linked%20lists/doubly%20linked%20removing%20operation.png)
+![Images of linked list](https://raw.githubusercontent.com/HlaingTinHtun/Data-Structure-Algorithm-In-Burmese/master/assets/linked%20lists/doubly%20linked%20removing%20operation.png)
 
 နှစ်ခုလုံးမှာတော့ draw back တွေရှိတယ်။ singly က memory use တာနည်းပေမဲ့ previous element ကိုပြန်သွားလို့မရဘူး။ doubly က previous node ပြန်သွားလို့ရတယ်၊ memory လည်း နှစ်ဆပိုကုန်တယ်။
 

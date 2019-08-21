@@ -25,4 +25,4 @@ O(n!) (pretty slow algorithm)
 
 Run time တွေကို စမ်းကြည့်ချင်တယ်ဆို ကိုယ့်ဘာသာ calculator နဲ့တွက်ပြီး စမ်းကြည့်လို့ရတယ်။ ဥပမာ 1billion records မှာ log time နဲ့ဆိုဘယ်လောက်ကြာမလဲ၊ linear နဲ့ဆိုဘယ်လောက်လဲ စသည်ဖြင့်ပေါ့။
 
-![Image of big0](https://raw.githubusercontent.com/HlaingTinHtun/Data-Structure-Algorithm-In-Burmese-Explanations/master/medias/big0.png)
+![Image of big0](https://raw.githubusercontent.com/HlaingTinHtun/Data-Structure-Algorithm-In-Burmese/master/assets/big0.png)

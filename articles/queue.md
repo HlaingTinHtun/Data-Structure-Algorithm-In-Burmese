@@ -7,13 +7,13 @@ Queue ကတော့ stack နဲ့ဆင်တယ်။ stack နဲ့မတ
 Stack လိုပဲ queue ကို array တွေ linked lists တွေသုံးပြီးတော့ ဆောက်လို့ရတယ်။ queue process မှာ queue ဆောက်တာတို့  stack မှာလိုပဲ ထိပ်ဆုံး element ကို access လုပ်ဖို့ဆို peek ဆိုတာကိုသုံးတာတို့၊ queue က ပြည့် နေပြီးလား empty ဖြစ်နေလားစတာတွေကို စစ်တဲ့ function တွေလဲရှိတယ်။ အဓိက အသုံးများတာကတော့ အပေါ်မှာပြောထားတဲ့ function နှစ်ခုဖြစ်တဲ့ enqueue နဲ့ dequeue ပဲ။ queue အတန်းကြီးတစ်ခုရှိတယ်ဆိုပါစို့၊ ညာဘက်(အနောက်ဘက်) ကို queue ထည့်ဖို့ (enqueue) လုပ်ဖို့သုံးတယ်၊ queue ရဲ့ ဘယ်ဘက်(အရှေ့ဘက်)ကို queue remove လုပ်ဖို့သုံးတယ်၊ attach လုပ်ထားတဲ့ပုံနဲ့ တွဲကြည့်လိုက်ရင်တော့ ပိုမြင်သွားပါလိမ့်မယ်။
 
 ### A Queue
-![Images of queue](https://raw.githubusercontent.com/HlaingTinHtun/Data-Structure-Algorithm-In-Burmese-Explanations/master/medias/queue/understanding%20queue/whatisqueue.png)
+![Images of queue](https://raw.githubusercontent.com/HlaingTinHtun/Data-Structure-Algorithm-In-Burmese/master/assets/queue/understanding%20queue/whatisqueue.png)
 
 ### Enqueue
-![Images of queue](https://raw.githubusercontent.com/HlaingTinHtun/Data-Structure-Algorithm-In-Burmese-Explanations/master/medias/queue/understanding%20queue/enqueue.png)
+![Images of queue](https://raw.githubusercontent.com/HlaingTinHtun/Data-Structure-Algorithm-In-Burmese/master/assets/queue/understanding%20queue/enqueue.png)
 
 ### Dequeue
-![Images of queue](https://raw.githubusercontent.com/HlaingTinHtun/Data-Structure-Algorithm-In-Burmese-Explanations/master/medias/queue/understanding%20queue/dequeue.png)
+![Images of queue](https://raw.githubusercontent.com/HlaingTinHtun/Data-Structure-Algorithm-In-Burmese/master/assets/queue/understanding%20queue/dequeue.png)
 
 Queue တွေဘယ်လိုထည့်လဲဆိုတော့ (enqueue operation)
 -	အသစ်ထည့်တော့မယ်ဆို queue ပြည့်နေပြီလားစစ်တယ်
@@ -23,10 +23,10 @@ Queue တွေဘယ်လိုထည့်လဲဆိုတော့ (enqueu
 -	Operation success ဖြစ်တဲ့ အကြောင်း return ပြန်တယ်
 
 ### Adding Queue
-![Images of queue](https://raw.githubusercontent.com/HlaingTinHtun/Data-Structure-Algorithm-In-Burmese-Explanations/master/medias/queue/understanding%20queue/adding%20queue%20instruction.png)
+![Images of queue](https://raw.githubusercontent.com/HlaingTinHtun/Data-Structure-Algorithm-In-Burmese/master/assets/queue/understanding%20queue/adding%20queue%20instruction.png)
 
 ### Removing Queue
-![Images of queue](https://raw.githubusercontent.com/HlaingTinHtun/Data-Structure-Algorithm-In-Burmese-Explanations/master/medias/queue/understanding%20queue/removing%20queue%20instruction.png)
+![Images of queue](https://raw.githubusercontent.com/HlaingTinHtun/Data-Structure-Algorithm-In-Burmese/master/assets/queue/understanding%20queue/removing%20queue%20instruction.png)
 
 ဒီနေရာမှာ stack နဲ့ မတူတာကျ stack က one ended ဆိုတော့ ထည့်တာရောထုတ်တာရော တစ်ဖက်တည်းကသွားတာဖြစ်တဲ့ အတွက်ကြောင့် pointer က တစ်ခုပဲရှိစရာလိုတယ်။ နှစ်ဖက်လုံးအလုပ်လုပ်တဲ့ queue မှာတော့ enqueue အတွက် ဆို rear (back pointer) နဲ့ dequeue အတွက် front pointer ဆိုပြီး ခွဲထားတယ်။
 

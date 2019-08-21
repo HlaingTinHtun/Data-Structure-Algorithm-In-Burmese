@@ -21,7 +21,7 @@ PQ ကိုသုံးပြီးတော့ implement လုပ်ထား
 photos credit to Udemy
 
 Priority Queue & Its Instructions
-![Images of priority queue](https://raw.githubusercontent.com/HlaingTinHtun/Data-Structure-Algorithm-In-Burmese-Explanations/master/medias/priority%20queue/what%20is%20pq%20and%20its%20instruction.png)
+![Images of priority queue](https://raw.githubusercontent.com/HlaingTinHtun/Data-Structure-Algorithm-In-Burmese/master/assets/priority%20queue/what%20is%20pq%20and%20its%20instruction.png)
 
 What Is A Heap
-![Images of priority queue](https://raw.githubusercontent.com/HlaingTinHtun/Data-Structure-Algorithm-In-Burmese-Explanations/master/medias/priority%20queue/what%20is%20a%20heap.png)
+![Images of priority queue](https://raw.githubusercontent.com/HlaingTinHtun/Data-Structure-Algorithm-In-Burmese/master/assets/priority%20queue/what%20is%20a%20heap.png)

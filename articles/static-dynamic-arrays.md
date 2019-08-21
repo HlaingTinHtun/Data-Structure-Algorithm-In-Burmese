@@ -21,6 +21,6 @@ Static array ကတော့
 -	static array နဲ့ယှဉ်ရင်တော့ element တွေ access လုပ်ရတာပိုနှေးတယ်။
 
 photos credit to Udemy
-![Images of arrays](https://raw.githubusercontent.com/HlaingTinHtun/Data-Structure-Algorithm-In-Burmese-Explanations/master/medias/static%20%26%20dynamic%20arrays/static%20array.png)
+![Images of arrays](https://raw.githubusercontent.com/HlaingTinHtun/Data-Structure-Algorithm-In-Burmese/master/assets/static%20%26%20dynamic%20arrays/static%20array.png)
 
-![Images of arrays](https://raw.githubusercontent.com/HlaingTinHtun/Data-Structure-Algorithm-In-Burmese-Explanations/master/medias/static%20%26%20dynamic%20arrays/dynamic%20array.png)
+![Images of arrays](https://raw.githubusercontent.com/HlaingTinHtun/Data-Structure-Algorithm-In-Burmese/master/assets/static%20%26%20dynamic%20arrays/dynamic%20array.png)

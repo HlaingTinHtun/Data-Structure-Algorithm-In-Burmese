@@ -12,10 +12,10 @@ stack တစ်ခုထဲကို data တစ်ခု push (ထည့်) �
 -	Operation success ဖြစ်တဲ့ အကြောင်း return ပြန်တယ်
 
 Stack Pushing
-![Images of stack](https://raw.githubusercontent.com/HlaingTinHtun/Data-Structure-Algorithm-In-Burmese-Explanations/master/medias/stacks/stack%20pushing.png)
+![Images of stack](https://raw.githubusercontent.com/HlaingTinHtun/Data-Structure-Algorithm-In-Burmese/master/assets/stacks/stack%20pushing.png)
 
 Stack Popping
-![Images of stack](https://raw.githubusercontent.com/HlaingTinHtun/Data-Structure-Algorithm-In-Burmese-Explanations/master/medias/stacks/stack%20poping.png)
+![Images of stack](https://raw.githubusercontent.com/HlaingTinHtun/Data-Structure-Algorithm-In-Burmese/master/assets/stacks/stack%20poping.png)
 
 Stack ထဲကနေ pop operation (stack ထဲကနေ data ထုတ်တော့မယ်ဆိုရင်)
 -	Stack က empty ဖြစ်နေလားအရင်ကြည့်တယ်

@@ -17,4 +17,4 @@ Abstraction ဆိုတာ က ရှုပ်ထွေးတဲ့ အရာ�
 
 ထိုနည်းလည်းကောင်းပဲ computer science major မှာလည်း system တွေက low level abstraction အထိ ဘယ်လိုလုပ်သွားတယ်ဆိုတဲ့ အချက်က သိဖို့လိုအပ်တယ်၊ အရေးကြီးတယ်ဆိုတဲ့ အကြောင်းပြောရင်း conclude လုပ်သွားပါတယ်။
 
-![Image of Abstraction](https://raw.githubusercontent.com/HlaingTinHtun/Data-Structure-Algorithm-In-Burmese-Explanations/master/medias/abstraction.png)
+![Image of Abstraction](https://raw.githubusercontent.com/HlaingTinHtun/Data-Structure-Algorithm-In-Burmese/master/assets/abstraction.png)
