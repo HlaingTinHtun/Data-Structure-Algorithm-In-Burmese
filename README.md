@@ -41,11 +41,14 @@ http://bit.ly/2H8MIOb
 #### Dynamic programming
 http://bit.ly/2TJ6Rzq
 
-#### binary tree
+#### Binary tree
 http://bit.ly/2MpDLnX
 
-#### binary tree's operation
+#### Binary tree's operation
 http://bit.ly/2YZiqIv
 
-### binary tress's traversal
+#### Binary tress's traversal
 http://bit.ly/31L0oH1
+
+#### Binary search
+http://bit.ly/2KZCTDe
