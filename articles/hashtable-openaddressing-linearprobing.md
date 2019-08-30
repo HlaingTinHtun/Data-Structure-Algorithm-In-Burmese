@@ -37,6 +37,7 @@ index = (5+18) mod 9 = 5
 GCD တန်ဖိုးက 1 သာရခဲ့လျှင် cycle issue မရှိဘဲ empty slot တွေကိုရှာနိုင်သွားမှာပါ။ p(x) ရဲ့ ဆ တန်ဖိုး (a တန်ဖိုး) သာ 1 တို့ 4 တို့ဖြစ်ခဲ့မယ်ဆိုရင် GCD တန်ဖိုး 1 ရတဲ့အတွက် cycle issue မရှိနိုင်တော့ပါဘူး။
 
 ![Images of hastable](https://raw.githubusercontent.com/HlaingTinHtun/Data-Structure-Algorithm-In-Burmese/master/assets/hashtable/open%20addressing/linear%20probing.png)
+photo credits to udemy
 
 ဒီနေရာမှာနောက်တစ်ခုမှတ်ထားစရာရှိတာက table resizing ပါ၊ အပေါ်မှာရှိတဲ့ ကျနော်တို့ရဲ့ table Threshold က 6 ပါ။ ပြည့်သွားမယ်ဆိုရင် တော့ resize ထပ်လုပ်ဖို့လိုပါတယ်။ double resizing လုပ်လိုက်တယ်ဆိုပါစို့၊ resizing လုပ်ပြီးပြီဆို key and value ကို formula (table size N ကပြောင်းသွားပါပြီ) အတိုင်း ပြန်တွက်ပြီးပြန်ထည့်ပေးဖို့လိုပါတယ်။
 
