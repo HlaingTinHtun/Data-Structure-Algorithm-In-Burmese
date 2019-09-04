@@ -4,12 +4,16 @@ Hash table အကြောင်းရေးနေတဲ့ series ထဲ က op
 
 Hash table (hashing)
 http://bit.ly/2NCd4MH
+
 Hash table (Separate Chaining)
 http://bit.ly/2KSdJaN
+
 Hash table (Open Addressing)
 http://bit.ly/2ZkEdL8
+
 Hash table – Open addressing (Linear Probing)
 http://bit.ly/2ZCjbTx
+
 Hash table – Open addressing (Quadratic Probing)
 http://bit.ly/2HDVYKe
 
