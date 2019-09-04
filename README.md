@@ -67,3 +67,6 @@ http://bit.ly/2ZCjbTx
 
 #### Hash table (Open Addressing - Quadratic Probing)
 http://bit.ly/2HDVYKe
+
+#### Hash table (Open Addressing - Double Hashing)
+http://bit.ly/2ktCQGr
