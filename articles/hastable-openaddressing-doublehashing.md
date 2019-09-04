@@ -30,4 +30,4 @@ https://en.wikipedia.org/wiki/Universal_hashing
 ![Images of hashtable](https://raw.githubusercontent.com/HlaingTinHtun/Data-Structure-Algorithm-In-Burmese/master/assets/hashtable/open%20addressing/doublehashing.jpg)
 photo credits to udemy
 
-resizing လုပ်တဲ့ technique ကလည်း ကျန်တဲ့ quadratic function တွေနဲ့အတူတူပါပဲ။ ဒါဆိုရင်တော့ hash table ရဲ့ open addressing မှာ popular ဖြစ်တဲ့ probing function သုံးခုလုံးပြီးသွားပြီ။ လက်ရှိမှာတော့ hash table ထဲကို key value တွေ insert လုပ်တဲ့ case နဲ့ပဲပြောထားတာဆိုတော့ နောက် article မှာ removing case ကိုရေးပေးသွားပါမယ်။
+resizing လုပ်တဲ့ technique ကလည်း ကျန်တဲ့ probing function တွေနဲ့အတူတူပါပဲ။ ဒါဆိုရင်တော့ hash table ရဲ့ open addressing မှာ popular ဖြစ်တဲ့ probing function သုံးခုလုံးပြီးသွားပြီ။ လက်ရှိမှာတော့ hash table ထဲကို key value တွေ insert လုပ်တဲ့ case နဲ့ပဲပြောထားတာဆိုတော့ နောက် article မှာ removing case ကိုရေးပေးသွားပါမယ်။
