@@ -76,3 +76,6 @@ http://bit.ly/2lApN6w
 
 #### Fenwick tree (Binary Indexed Tree)
 http://bit.ly/2lDTvaO
+
+#### Fenwick tree (Point Update)
+http://bit.ly/2lQKLOn
