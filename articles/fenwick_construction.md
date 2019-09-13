@@ -1,4 +1,4 @@
-## Fenwick tree (Point Update)
+## Fenwick Tree Construction
 
 Fenwick tree ရဲ့ range query တွက်နည်းရော point update လုပ်နည်းရော ပြောပြီးပြီဆိုတော့ နောက်ဆုံးအနေနဲ့ အရေးကြီးဆုံး fenwick tree ဘယ်လိုဆောက်လဲဆိုတာ ရေးပေးသွားပါမယ်။ range query တို့ point update တို့မလုပ်ခင်မှာ fenwick tree က အရင်ဆောက်ထားရမှာဖြစ်ပါတယ်။ fenwick tree ကို tree structure အတိုင်းလဲ ဆောက်သွားလို့ရတယ်။ ဒီ article မှာတော့ ဖတ်ရလွယ်အောင်နဲ့ နားလည်ရလွယ်အောင် linear structure နဲ့ ဆောက်သွားပြပါမယ်။
 
