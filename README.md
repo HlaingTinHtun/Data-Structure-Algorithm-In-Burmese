@@ -79,3 +79,6 @@ http://bit.ly/2lDTvaO
 
 #### Fenwick tree (Point Update)
 http://bit.ly/2lQKLOn
+
+#### Fenwick Tree Construction
+http://bit.ly/2lMjI79
