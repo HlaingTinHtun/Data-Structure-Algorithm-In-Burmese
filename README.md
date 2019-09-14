@@ -82,3 +82,6 @@ http://bit.ly/2lQKLOn
 
 #### Fenwick Tree Construction
 http://bit.ly/2lMjI79
+
+#### AVL Tree
+http://bit.ly/2kMaXJR
