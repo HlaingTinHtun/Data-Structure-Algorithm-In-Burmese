@@ -4,10 +4,13 @@ AVL tree ဆိုတာကတော့ binary tree ကို modify ထပ်�
 
 Binary tree
 http://bit.ly/2MpDLnX
+
 Binary tree's operation
 http://bit.ly/2YZiqIv
+
 Binary tress's traversal
 http://bit.ly/31L0oH1
+
 Binary search
 http://bit.ly/2KZCTDe
 
