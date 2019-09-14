@@ -14,7 +14,7 @@ http://bit.ly/31L0oH1
 Binary search
 http://bit.ly/2KZCTDe
 
-စကားပြန်ဆက်ရမယ်ဆို ဆိုလိုချင်တာက node တစ်ခု insert ထည့်တော့မယ်ဆို process က ၆ ခါလုပ်ရပါမယ်၊ ဆိုတော့ linear အတိုင်းပဲပြန်ကြာသွားပါလိမ့်မယ်။ အဲ့အတွက်ကြောင့် မို့လို့ binary tree တွေကို balanced ထပ်လုပ်ဖို့လိုအပ်လာတာပါ။ balanced လုပ်ထားတဲ့ tree ဆိုရင် linear time မကြာဘဲ နဲ့ process ကိုလျော့ချ နိုင်ပြီး performance အတွက်ပိုကောင်းပါတယ်။ attachment မှာ sample ကြည့်နိုင်ပါတယ်။
+စကားပြန်ဆက်ရမယ်ဆို ဆိုလိုချင်တာက node တစ်ခု insert ထည့်တော့မယ်ဆို process က 7 ခါလုပ်ရပါမယ်၊ ဆိုတော့ linear အတိုင်းပဲပြန်ကြာသွားပါလိမ့်မယ်။ အဲ့အတွက်ကြောင့် မို့လို့ binary tree တွေကို balanced ထပ်လုပ်ဖို့လိုအပ်လာတာပါ။ balanced လုပ်ထားတဲ့ tree ဆိုရင် linear time မကြာဘဲ နဲ့ process ကိုလျော့ချ နိုင်ပြီး performance အတွက်ပိုကောင်းပါတယ်။ attachment မှာ sample ကြည့်နိုင်ပါတယ်။
 
 ![Image of avl](https://raw.githubusercontent.com/HlaingTinHtun/Data-Structure-Algorithm-In-Burmese/master/assets/AVL%20tree/fig1.1%20advantages%20of%20avl%20tree.png)
 
