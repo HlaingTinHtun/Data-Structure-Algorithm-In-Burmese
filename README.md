@@ -2,6 +2,9 @@
 
 လက်ရှိ ရေးပြီးသား ဆောင်းပါးတွေကို list လုပ်ပေးထားပါမယ်ခင်ဗျာ။
 
+#### Introduction
+http://bit.ly/2ms2eNC
+
 #### Abstraction
 http://bit.ly/2KHmwwh
 
@@ -28,6 +31,9 @@ http://bit.ly/2P2rx6M
 
 #### Priority Queue with heap part 2 (hash table)
 http://bit.ly/2Nfd5Wl
+
+#### Sorting
+http://bit.ly/2kVe1Ue
 
 #### Union Find
 http://bit.ly/2KIVx3u
