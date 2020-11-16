@@ -14,7 +14,7 @@ http://bit.ly/2ms2eNC
 #### Abstraction
 http://bit.ly/2KHmwwh
 
-#### Big 0 Notation
+#### Big O Notation
 http://bit.ly/2KHIOhy
 
 #### Static & Dynamic Array
