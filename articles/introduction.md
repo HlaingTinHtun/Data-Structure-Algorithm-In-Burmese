@@ -20,4 +20,4 @@ Algorithm တွေရဲ့ complexity ကိုကြည့်မယ်ဆိ�
 -	Memory space ပေါ်မူတည်ထားတဲ့ space complexity ဆိုပြီးတော့ပါ။
 Time complexity ကတော့ algorithm တစ်ခု run ပြီဆို operation ဘယ်နှစ်ကြိမ်လုပ်သွားလဲဆိုတာပေါ်မူတည်ပြီးတွက်တယ်။ space complexity ဆိုတာကတော့ algorithm runtime မှာ system ရဲ့ memory အသုံးပြုပုံမူတည်ပြီးတွက်ပါတယ်။
 
-နောက် article မှာ Big 0 နဲ့အတူ complexity အကြောင်းထပ်ရေးပေးထားပါတယ်။
+နောက် article မှာ BigO နဲ့အတူ complexity အကြောင်းထပ်ရေးပေးထားပါတယ်။
