@@ -14,7 +14,7 @@ http://bit.ly/2ms2eNC
 http://bit.ly/2KHmwwh
 
 #### Big O Notation
-http://bit.ly/2KHIOhy
+https://bit.ly/3whDZTs
 
 #### Static & Dynamic Array
 http://bit.ly/2MpGaii
