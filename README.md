@@ -4,8 +4,8 @@
 
 စာအုပ်ဒေါင်းလုပ်ချချင်ရင်တော့ datastructures_algorithm.pdf ဆိုတဲ့ file ကို download ယူနိုင်ပါတယ်
 
-Take a look at free donation based web development courses from A Programmer<br />
-https://bit.ly/385lLsZ
+Youtube မှာလည်း web development နဲ့ပတ်သတ်တဲ့ Playlist & videos များတင်ထားပါတယ်။ <br />
+https://bit.ly/3xtURtI
 
 #### Introduction
 http://bit.ly/2ms2eNC
