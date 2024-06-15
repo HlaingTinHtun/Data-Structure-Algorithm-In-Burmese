@@ -4,7 +4,7 @@
 
 စာအုပ်ဒေါင်းလုပ်ချချင်ရင်တော့ datastructures_algorithm.pdf ဆိုတဲ့ file ကို download ယူနိုင်ပါတယ်
 
-Youtube မှာလည်း web development နဲ့ပတ်သတ်တဲ့ Playlist & videos များတင်ထားပါတယ်။ <br />
+Web development နဲ့ပတ်သတ်တဲ့ playlists, videos များကိုလည်း Youtube မှာဝင်ရောက်ကြည့်ရှုနိုင်ပါတယ်။ <br />
 https://bit.ly/3xtURtI
 
 #### Introduction
